@@ -6,7 +6,9 @@
 
 ## 🌐 Socials :
 <div align="left">
-  <a href="https://www.linkedin.com/in/iinniwm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="winnii" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/iinniwm/" target="blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin/>
+  </a>
   <a href="https://www.facebook.com/winniiiiiiiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="winnii" height="30" width="40" /></a>
   <a href="https://www.instagram.com/iinniwm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="winnii" height="30" width="40" /></a>
 </div> 
